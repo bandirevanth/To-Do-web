@@ -26,3 +26,5 @@ This web-based To-Do application blends simplicity with functionality, empowerin
    cd To-Do-web
 
 **LIVE DEMO**: https://to-do-web-61h8.onrender.com
+
+*Crafted by Bandi Revanth – dedicated to making productivity elegant and effortless.*
